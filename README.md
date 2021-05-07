@@ -17,3 +17,7 @@ Through this project, we want to offer a platform through which  community contr
 Anyone who can 1) design, 2) develop, 3) deliver, 4) peer-review, 5) update training (materials), or a combination of the above.
 
 
+
+
+
+[![DOI](https://zenodo.org/badge/347910640.svg)](https://zenodo.org/badge/latestdoi/347910640)
