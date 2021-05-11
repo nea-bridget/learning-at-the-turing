@@ -40,7 +40,7 @@ This platform is currently under construction and as such we welcome any feedbac
 This project is currently maintained by [Mishka Nemes](https://github.com/mishkanemes) - you can contact her at mnemes@turing.ac.uk
 
 <a href = "https://github.com/Tanu-N-Prabhu/Python/graphs/contributors">
-  <img src = "https://contrib.rocks/image?repo = GitHub_username/repository_name"/>
+  <img src = "https://contrib.rocks/image?repo = mishkanemes/learning-at-the-turing"/>
 </a>
 
 ### DOI
