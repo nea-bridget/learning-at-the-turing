@@ -1,6 +1,4 @@
-
 ![header3-learning-at-the-turing-06](https://user-images.githubusercontent.com/39628884/117806086-bdb84f80-b251-11eb-9e62-3236dbd1c797.png)
-
 #  The Alan Turing Institute: Learning at the Turing 
 
 **Vision**
