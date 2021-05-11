@@ -37,4 +37,6 @@ This repository is always a work in progress and **everyone** is encouraged to h
 
 ### Licence
 
-[!CC-BY-SA-4.0](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ACC-BY-SA_icon.svg&psig=AOvVaw0lPNsQUBYdNoM3eRteHYl1&ust=1620820184193000&source=images&cd=vfe&ved=0CA0QjhxqFwoTCNj4zezHwfACFQAAAAAdAAAAABAD)] (https://creativecommons.org/licenses/by-sa/4.0/legalcode)
+![CC-BY-SA_icon svg](https://user-images.githubusercontent.com/39628884/117810752-b09e5f00-b257-11eb-8502-f9fca51d8390.png)
+
+[CC-BY-SA-4.0]] (https://creativecommons.org/licenses/by-sa/4.0/legalcode)
