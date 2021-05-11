@@ -1,11 +1,10 @@
 ![header3-learning-at-the-turing-06](https://user-images.githubusercontent.com/39628884/117806086-bdb84f80-b251-11eb-9e62-3236dbd1c797.png)
 #  The Alan Turing Institute: Learning at the Turing 
 
-**Vision**
 
 This project aims to develop an online open-access tool to encourage and offer a platform for researchers to contribute to the national data science and AI training agenda. The long term goal is to enable a more inclusive environment, and to improve the training provision nationally and beyond.
 
-**About**
+### About
 
 As the national institute for data science and AI in the UK, and established in the aim of becoming better than the sum of the parts (the university and business partners), we are well placed to co-develop innovative training with the wider community in order to set educational standards, and to offer a wide range of training opportunities for anyone interested in learning more about data science and AI.
 
