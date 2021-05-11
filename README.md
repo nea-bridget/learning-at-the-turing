@@ -25,7 +25,9 @@ This repository is always a work in progress and **everyone** is encouraged to h
 - **Peer Review:** Do you know a bit about a certain training topic? Do you have some time to go through the existing materials and would like raise any issues, bugs, update the examples we use? We are keen to hear from you - peer-reviewers are crucial to this training.
 - **Make open your ready-made training materials:** Do you have some training which is ready to share with the open community? We welcome any training ideas that align with the topics of interest.
 
+### Improvements
 
+This platform is currently under construction and as such we welcome any feedback and suggestions for improvement. We encourage you to open a new issue and label it as *improvements* or email us at training@turing.ac.uk
 
 
 
