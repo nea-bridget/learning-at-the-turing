@@ -30,6 +30,11 @@ This repository is always a work in progress and **everyone** is encouraged to h
 
 
 
-
+### DOI
 
 [![DOI](https://zenodo.org/badge/347910640.svg)](https://zenodo.org/badge/latestdoi/347910640)
+
+
+### Licence
+
+[!CC-BY-SA-4.0] (https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ACC-BY-SA_icon.svg&psig=AOvVaw0lPNsQUBYdNoM3eRteHYl1&ust=1620820184193000&source=images&cd=vfe&ved=0CA0QjhxqFwoTCNj4zezHwfACFQAAAAAdAAAAABAD)] (https://creativecommons.org/licenses/by-sa/4.0/legalcode)
