@@ -8,10 +8,6 @@ This platform aims to offer an online open-access tool where researchers, academ
 
 [The Alan Turing Institute](https://www.turing.ac.uk) was established as a *collaboration space* and national data science and AI convener, with the aim of becoming better than the sum of the parts - the university and business partners. As such, the Turing is well placed to convene the development and delivery of innovative training, in conjuction with the wider community. The ultimate aim is to set educational standards, and to offer a wide range of training opportunities for anyone interested in either teaching or learning data science and AI.
 
-Training is often developed and delivered in silos. As a national institute in data science and AI, we are unable to deliver training to everyone interested in it if we don’t adopt a train-the-trainer approach. Also, we are moving toward involving external contributors in . 
-
-
-
 ### Guiding principles
 
 1. **Open access to all** - We believe that training opportunities should be open to everyone, irrespective of their financial, socioeconomic or academic situation. 
