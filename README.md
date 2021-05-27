@@ -22,11 +22,11 @@ The current training provision part of the *Learning at the Turing* initiative i
 
 | Course title | Status | 
 |--------------|--------|
-| Research Software Engineering (STEM focus) | Ready to use |
-| Research Software Engineering (Digital Humanities focus) | Developing |
+| [Research Software Engineering (STEM focus)](https://alan-turing-institute.github.io/rsd-engineeringcourse/) | Ready to use |
+| [Research Software Engineering (Digital Humanities focus)](https://github.com/alan-turing-institute/DH-RSE-Summer-School) | Developing |
 
 
-### Contributing
+# Contributing
 
 This repository is always a work in progress and **everyone** is encouraged to help us develop and deliver training resources that will be useful to the wider community of learners.
 
