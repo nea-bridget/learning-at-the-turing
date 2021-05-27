@@ -15,6 +15,17 @@ This platform aims to offer an online open-access tool where researchers, academ
 2. **Enabling a community of trainers** - As a national institute in data science and AI, we can only offer training to the wider community if we adopt a train-the-trainer approach whereby today's learners are tomorrow's instructors. 
 3. **Opportunity to shape out the training agenda** - Through this project, we want to offer a platform through which interested individuals can find guidance and tools to contribute to training, allowing you to take part in shaping out the data science and AI training agenda in the UK.
 
+
+# Data Science and AI training courses 
+
+The current training provision part of the *Learning at the Turing* initiative includes: 
+
+| Course title | Status | 
+|--------------|--------|
+| Research Software Engineering (STEM focus) | Ready to use |
+| Research Software Engineering (Digital Humanities focus) | Developing |
+
+
 ### Contributing
 
 This repository is always a work in progress and **everyone** is encouraged to help us develop and deliver training resources that will be useful to the wider community of learners.
