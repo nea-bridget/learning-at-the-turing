@@ -24,7 +24,9 @@ The current training provision part of the *Learning at the Turing* initiative i
 |--------------|--------|
 | [Research Software Engineering (STEM focus)](https://alan-turing-institute.github.io/rsd-engineeringcourse/) | Ready to use |
 | [Research Software Engineering (Digital Humanities focus)](https://github.com/alan-turing-institute/DH-RSE-Summer-School) | Developing |
-
+| [Reinforcement Learning - From Theory to Practice](https://github.com/alan-turing-institute/T02-reinforcement-learning) | Developing |
+| Mathematics of Machine Learning | Developing |
+| [Assessing and Mitigating Bias in AI](https://github.com/alan-turing-institute/T01-bias-in-AI) | Developing |
 
 # Contributing
 
