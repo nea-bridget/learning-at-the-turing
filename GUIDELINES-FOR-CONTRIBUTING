@@ -1,6 +1,20 @@
 # Contributing to Learning at the Turing
 
 
+Contributor Guidelines
+In addition to setting out some ground rules for the behaviour expected when collaborating on your project, you might want to provide some hands-on steps that potential collaborators should follow to add their contributions. Those instructions are laid out in a CONTRIBUTING file (this is an idea borrowed from software engineering where capitalised filenames are the norm for the most important files of a project). Your audiences for the contributing guidelines are your potential contributors who need to understand what is expected from them, project consumers who need to know how they can remix and re-use your work, and yourself who creates and maintains the file as a key part to outline interactions with your community. Similar to other key documents, it is recommended that you look at examples of contributing guidelines of similar projects and re-use those. Here are a few suggestions of what your contributing guidelines could cover:
+
+Your project vision.
+A welcome to potential contributors.
+Pointers to the Code of Conduct.
+A list of other important resources such as the README file or your project’s roadmap.
+Communication channels where contributors can reach you.
+How to submit changes.
+Good first bugs or issues to start working on.
+How to report a bug.
+Your recognition model and how contributions will get acknowledged.
+Where to go for help.
+
 
 _We're excited that you're here and want to contribute._
 
