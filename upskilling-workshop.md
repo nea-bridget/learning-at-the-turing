@@ -1,3 +1,3 @@
-## Name / Favourite piece of software or app 
+## Name / GitHub name / Favourite piece of software or app 
 
-Mishka / Mubi & Headspace 
+Mishka / mishkanemes / Mubi & Headspace 
