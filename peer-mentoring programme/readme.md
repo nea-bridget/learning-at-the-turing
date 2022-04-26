@@ -2,7 +2,6 @@
 
 **Table of Contents**
 
-[TOC]
  
 ## Programme Overview
 
@@ -14,13 +13,11 @@ The TPS peer-mentoring and training programme will run for 8 weeks, featuring pr
 * Project management
 * Ethical Research
 
-::::info
 **KEY DATES** 
 * **Eligibility**: Applicants of this pilot programme should be affiliated with the Turing
 * **Applications open:** [Tuesday, 12 April - Sunday, 22 May 2022](https://forms.office.com/Pages/ResponsePage.aspx?id=p_SVQ1XklU-Knx-672OE-etitOjG6rhHtlIU40dhvK9URUdaUTMxT0czMUZNSFBXVUpDVks5SURPTC4u)
 * **Pre-Application Webinar and Drop-in session:** Thursday, 28 April 2022 @ 12:30, Zoom Link: https://turing-uk.zoom.us/j/97248428609?pwd=S1NuOVhQRFg0RU91ODVlckgxZU9PUT09, Meeting ID: 972 4842 8609, Passcode: 789019)
 * **Programme duration:** Wednesday, 1 June - Wednesday, 20 July 2022
-::::
 
 **Who should apply?** This programme is designed for students, researchers and research infrastructure roles at the Turing. 
 
@@ -115,14 +112,12 @@ The programme features topics covering effective project planning and management
 1. Attend workshops with other trainers and collaborate to create training materials and prepare learner prompts/group activities. 
 1. Join our community of trainers and attend the drop in session highlighted below or contact us via email for any questions! 
 
-::::info
 **PROGRAMME DROP IN SESSION** 
 
 **Date:** Thursday, 28 April 2022
 **Time:** 12:30 - 13:30 UK time zone (BST)
 **Zoom link:** https://turing-uk.zoom.us/j/97248428609?pwd=S1NuOVhQRFg0RU91ODVlckgxZU9PUT09, Meeting ID: 972 4842 8609, Passcode: 789019
 
-::::
 
 :mailbox: Contact
 ---
