@@ -1,7 +1,5 @@
 # Tools, Practices & Systems Peer Mentorship & Training Programme 
 
-**Table of Contents**
-
  
 ## Programme Overview
 
